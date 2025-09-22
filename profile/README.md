@@ -1,16 +1,20 @@
-# Introduction to Nocturnal Skirmish & GameHub
+# Introduction to Nocturnal Skirmish
 
 ### 1. What is Nocturnal Skirmish?
 
-* Nocturnal skirmish is a turn-based card web-game, built in php.
+* Nocturnal skirmish is a pixelart turn-based PvP card game, made in godot engine.
 
-### 2, What is GameHub?
+### 2. What's the purpose of this project?
 
-* GameHub is a social platform for messaging and chatting.
+* Our goal is to make a fun and technically advanced strategy card game.
 
-### 3. What's the purpose of these projects?
+### 3. What happened to the original Nocturnal Skirmish & GameHub (social hub and game)?
 
-* Their purpose is to create a neat web-platform accompanied by a social space to communicate.
+* The original game was not up to our standards, so we decided to archive it and start to work on a remake.
+
+### 4. What will happen to the website itself (nocskir.com)?
+
+* The website will be remade into a wiki page with tutorials and information usefull to the game, but will not host the game itself anymore. Also GameHub, which was a social platform, is not being included in the remake.
 
 # Support this project
 
